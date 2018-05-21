@@ -1,3 +1,7 @@
 sample sample
 ......
+
 added text
+
+stash check
+
