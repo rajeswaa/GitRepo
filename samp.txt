@@ -1,9 +1,6 @@
 sample sample
 ......
-
 added text
-
 stash check
-
 added stash -1
-
+Jenkins test
